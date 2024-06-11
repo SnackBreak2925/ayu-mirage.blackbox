@@ -1,0 +1,40 @@
+{
+  "name": "Ayu Mirage",
+  "comment": "Soothing pastel theme for the high-spirited!",
+  "background-color": "#1F2430",
+  "foreground-color": "#CBCCC6",
+
+  "cursor-background-color": "#F2D5CF",
+  "cursor-foreground-color": "#FFCC66",
+
+  "badge-color": "#686868",
+  "bold-color": "#686868",
+
+  "highlight-background-color": "#F2D5CF",
+  "highlight-foreground-color": "#ffCC66",
+
+  "palette": [
+    "#171B24",
+    "#ED8274",
+    "#87D96C",
+    "#FACC6E",
+    "#6DCBFA",
+    "#DABAFA",
+    "#95E6CB",
+    "#C7C7C7",
+    "#686868",
+    "#F28779",
+    "#D5FF80",
+    "#FFD173",
+    "#73D0FF",
+    "#DFBFFF",
+    "#95E6CB",
+    "#FFFFFF"
+  ],
+  "cursor": "#FFCC66",
+  "use-badge-color": false,
+  "use-bold-color": false,
+  "use-cursor-color": true,
+  "use-highlight-color": true,
+  "use-theme-colors": false
+}
